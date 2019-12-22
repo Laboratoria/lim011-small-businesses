@@ -41,7 +41,7 @@ Actualmente toda la venta se realiza presencialmente y estan muy interesados en 
 |Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
-| Total |  | 290 |
+|  | Total | 290 |
 
 ## 4. Proceso UX
 
