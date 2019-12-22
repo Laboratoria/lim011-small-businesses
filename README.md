@@ -1,5 +1,4 @@
-# Pirqa Marketplace
-![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/Logo%20Pirqa.png)
+# Pirqa Marketplace ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/Logo%20Pirqa.png)
 ## Índice
 * [1. Introducción](#1-introducción)
 * [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
