@@ -1,25 +1,25 @@
 # Pirqa Marketplace
-
+![image]()
 ## Índice
-* [1. Introducción](#1-preámbulo)
-* [2. Objetivos del proyecto](#2-resumen-del-proyecto)
-* [3. Implementacion](#3-objetivos-de-aprendizaje)
-* [4. Proceso UX](#4-consideraciones-generales)
-  * [4.1 Descubrimiento e Investigacion](#5-criterios-de-aceptación-mínimos-del-proyecto)
-   * [4.1.1 Entrevista con el Cliente](#6-consideraciones-técnicas)
-   * [4.1.2 Entresviats con usuarios](#7-evaluación)
-   * [4.1.3 Benchmark](#8-entrega)
-  * [4.2 Sintesis y Definicion](#9-otras-consideraciones)
-   * [4.2.1 Affinity Map](#10-hacker-edition)
-   * [4.2.2 User Persona](#10-hacker-edition)
-   * [4.2.3 Customer Journey Map](#10-hacker-edition)
-   * [4.2.4 Definicion del Producto](#10-hacker-edition)
-  * [4.3 Ideacion, Prototipado y user testing](#10-hacker-edition)
-   * [4.3.1 Prototipo de baja fidelidad](#10-hacker-edition)
-   * [4.3.2 Propotipo de alta fidelidad](#10-hacker-edition)
-   * [4.3.3 User testing](#10-hacker-edition)
-* [5. Conclusiones](#10-hacker-edition)
-* [6. Enlaces](#10-hacker-edition)
+* [1. Introducción](#1-introducción)
+* [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
+* [3. Implementación](#3-implementación)
+* [4. Proceso UX](#4-Proceso-UX)
+  * [4.1 Descubrimiento e Investigación](#5-descubrimiento-e-investigacion)
+    * [4.1.1 Entrevista con el Cliente](#6-consideraciones-técnicas)
+    * [4.1.2 Entrevistas con usuarios](#7-evaluación)
+    * [4.1.3 Benchmark](#8-entrega)
+  * [4.2 Síntesis y Definición](#9-otras-consideraciones)
+    * [4.2.1 Affinity Map](#10-hacker-edition)
+    * [4.2.2 User Persona](#10-hacker-edition)
+    * [4.2.3 Customer Journey Map](#10-hacker-edition)
+    * [4.2.4 Definición del Producto](#10-hacker-edition)
+  * [4.3 Ideación, Prototipado y user testing](#10-hacker-edition)
+    * [4.3.1 Prototipo de baja fidelidad](#10-hacker-edition)
+    * [4.3.2 Prototipo de alta fidelidad](#10-hacker-edition)
+    * [4.3.3 User testing](#10-hacker-edition)
+* [5. Conclusiones](#5-conclusiones)
+* [6. Enlaces](#6-enlaces)
   
 
 ***
@@ -41,16 +41,29 @@ Actualmente toda la venta se realiza presencialmente y estan muy interesados en 
 |Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+| Total | 290 |
 
 ## 4. Proceso UX
 
-### 1) Descubrimiento y Planificación
+### 4.1) Descubrimiento y Planificación
+#### Entrevista con el Cliente
+#### Entrevista con usuarios
+#### Bechmarck
 
 Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
 ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
 con las actividades planteadas.
 
-### 2) Entrevista con el Cliente
+### 4.2) Sintesis y Definicion
+#### Affinity map
+#### User Persona
+#### Customer Journey map
+#### Definicion del producto
+
+### 4.3) Ideación, prototipado y user testing
+#### Prototipado de baja fidelidad
+#### Prototipado de alta fidelidad
+#### User testing
 
 Al definir el producto recuerda pensar en:
 
@@ -65,18 +78,5 @@ Al definir el producto recuerda pensar en:
 * Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
 * Cómo crees que el producto les está resolviendo sus problemas
 
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-## 9. Hacker edition
-
-* En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0.
-* Escribe un post en Medium contando tu proceso de investigación.
+## 5. Conclusiones
+## 6. Enlaces
