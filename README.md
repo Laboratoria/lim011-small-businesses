@@ -69,7 +69,9 @@ Se entrevistó a 6 usuarios escaladores y 4 madres de familia que podrían usar 
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/usuario1.jpg)
 
 "Veo las puntuaciones y comentarios que tienen en su página de facebook"- Pilar
+
 "Todo el proceso de compra lo concreté por internet" - Cynthia
+
 "Prefiero que brinden la información en la página o RR.S.S. porque mucho se demoran en contestar" - Paola
 
 
