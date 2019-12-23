@@ -57,7 +57,7 @@ de calidad de Latinoamérica"- Daniel Kanashiro.
 
 Se entrevistó a Daniel Kanashiro, administrador de Pirqa, quien nos brindo mucho información acerca de la empresa, misión, visión y servicios, aqui unos extractos:
 
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/entrevista%20cliente.jpg)
 
 #### Entrevista con usuarios
 Se entrevistó a 6 usurios escaladores y 4 mamás que podrian usar el servicio de cumpleaños (potenciales clientes).
@@ -70,18 +70,39 @@ Se entrevistó a 6 usurios escaladores y 4 mamás que podrian usar el servicio d
 #### Bechmarck
 Los criterios utilizados para la selección de referentes fueron los siguientes:
 
-Organización de la  información
-![image]()
-Generación de leads
-![image]()
-Proceso de compra
-![image]()
+##### Organización de la  información
+Asi muestra actualmente Pirqa su información:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/pirqa.png)
 
-### 4.2) Sintesis y Definicion
+Este es el que muestra la competencia directa, Base Camp:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/base%20camp2.png)
+
+Este es el que muestra otro rubro, pero también centro de diversiones, Coney Park:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney%20park%202.png)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney3.jpg)
+
+Este es el que muestra una página en el extrangero, The Wall:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/wall.png)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/wall%202.png)
+
+##### Generación de leads
+Este es el que muestra actualmente Pirqa:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/pirqa%20lead.png)
+
+Este es otra pagian del exterior, The little Gym:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/fotmulario%20little%20gym.png)
+
+##### Proceso de compra
+Coney Park
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney%20park.png)
+The Wall
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/the%20wall3.png)
+
+### 4.2) Síntesis y Definición
 #### Affinity map
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/Diagrama%20de%20Afinidad.jpg)
 
-CONCLUSIONES
+##### CONCLUSIONES
 - De los clientes entrevistados la mayoria utiliza pc y movil para sus compras por internet.
 
 "Desde mi computadora, nunca lo habia pensado pero para meter mis datos bancarios y ver todos los datos es fácil una pantalla grande". "Siempre lo hago desde mi movil".
@@ -108,26 +129,26 @@ CONCLUSIONES
 ![image]()
 #### Definicion del producto
 
-PROBLEM STATEMENTS
+##### PROBLEM STATEMENTS
 - Ursula Prada necesita navegar por internet desde sus dispositivos para realizar compras.
 - Ursula Prada necesita informacion detallada, fotos, etc. para poder realizar compras por internet.
 - Ursula Prada necesita seguridad para no llevarse sorpresas cuando le lleguen sus compras.
 - Ursula Prada necesita encontrar diversos medios de pagos para poder realizar sus compras.
 - Ursula Prada necesita rapidez y practicidad para poder realizar sus compras sin complicaciones.
 
-HMW
+##### HMW
 - Como podriamos hacer para que Ursula ya no tuviera que llamar para hacer una reserva de cumpleaños.
 - Como podriamos facilicitarle a Ursula el uso de sus dispositivos en sus compras.  
 - Como podriamos organizar y mostrar toda la información en un solo lugar para que Ursula compre por web.
 - Como podriamos tener todos los medidos de pago para facilitar la compra de Ursula.
 - Como podriamos simplificar el proceso de compra para que Ursula desee utilizar nuestra web
 
-WHAT IF?
+##### WHAT IF?
 - Que tal si mostraramos fotos de realidad 3D e información super detallada de todos los paquetes que ofrecemos.
 - Que tal si ofrecemos una amplia pasarela de pagos y que ademas sea segura.
 - Que tal si  ofrecemos el servicio de booking como lo hace coney park.
 
-FEATURE LIST
+##### FEATURE LIST
 - Galeria de fotos e información super detallada.
 - Implementar pasarela de pagos segura.
 - Simplificar el proceso de compra en 5 pasos.
@@ -140,4 +161,4 @@ FEATURE LIST
 
 ## 5. Conclusiones
 ## 6. Enlaces
-
+* [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
