@@ -29,8 +29,13 @@ Pirqa, es una academia de escalada para niños y adultos que tiene creada 7 año
 Actualmente toda la venta se realiza presencialmente y estan muy interesados en una propuesta digital.
 
 ## 2. Objetivos del Proyecto
+- Conocer sobre la marca, servicios que brinda y lo que desean mejorar.
+- Conocer sus valores, fortalezas y debilidades.
+- Conocer sobre el servicio que les da mayor y menor rentabilidad. ¿Cuál desean potenciar?
+- Saber si les gustaría implementar una e-commerce y qué quisieran vender.
 
 ## 3. Implementación
+Para realizar este proyecto hemos seleccionado las siguientes actividades:
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
@@ -47,36 +52,91 @@ Actualmente toda la venta se realiza presencialmente y estan muy interesados en 
 
 ### 4.1) Descubrimiento y Planificación
 #### Entrevista con el Cliente
-#### Entrevista con usuarios
-#### Bechmarck
+"Actualmente nos regimos en estándares europeos, con mucha seguridad decimos que estamos entre los mejores 
+de calidad de Latinoamérica"- Daniel Kanashiro.
 
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
+Se entrevistó a Daniel Kanashiro, administrador de Pirqa, quien nos brindo mucho información acerca de la empresa, misión, visión y servicios, aqui unos extractos:
+
+![image]()
+
+#### Entrevista con usuarios
+Se entrevistó a 6 usurios escaladores y 4 mamás que podrian usar el servicio de cumpleaños (potenciales clientes).
+
+"Veo las puntuaciones y comentarios que tienen en su página de facebook"- Pilar
+"Todo el proceso de compra lo concreté por internet" - Cynthia
+"Prefiero que brinden la información en la página o RR.S.S. porque mucho se demoran en contestar" - Paola
+
+
+#### Bechmarck
+Los criterios utilizados para la selección de referentes fueron los siguientes:
+
+Organización de la  información
+![image]()
+Generación de leads
+![image]()
+Proceso de compra
+![image]()
 
 ### 4.2) Sintesis y Definicion
 #### Affinity map
+![image]()
+
+CONCLUSIONES
+- De los clientes entrevistados la mayoria utiliza pc y movil para sus compras por internet.
+
+"Desde mi computadora, nunca lo habia pensado pero para meter mis datos bancarios y ver todos los datos es fácil una pantalla grande". "Siempre lo hago desde mi movil".
+
+- Otro grupo recalcó la importancia de tener todo detallado en la web.
+
+"Me gustan las fotos por todos los angulos, que muestran bien el producto. No me gusta que no salga el precio en el producto porque demoran en contestar."
+
+- De las molestias que se encuentra al comprar por internet indicaron que es cuando se muestra algo y la realidad es otra.
+
+"Cuando deseo comprar por ejemplo juguetes, sale en la pagina que hay stock, y cuando pago me indican que no hay en el local de mi dirección."
+
+- Con respecto a la forma de pago la mayoria indicó que prefieren realizar pagos en medios seguros y no tienen inconvenientes en realizar adelantos.
+
+"Puedo hacerlo contra entrega, puedo hacerlo con mis tarjetas, o con efectivo".
+
+- Con respecto al proceso de compra los entrevistados indicaron que mientras más rapido y fácil es el proceso mucho mejor.
+
+"Compro por internet por practicidad, para no complicarme la vida".
+
 #### User Persona
+![image]()
 #### Customer Journey map
+![image]()
 #### Definicion del producto
+
+PROBLEM STATEMENTS
+- Ursula Prada necesita navegar por internet desde sus dispositivos para realizar compras.
+- Ursula Prada necesita informacion detallada, fotos, etc. para poder realizar compras por internet.
+- Ursula Prada necesita seguridad para no llevarse sorpresas cuando le lleguen sus compras.
+- Ursula Prada necesita encontrar diversos medios de pagos para poder realizar sus compras.
+- Ursula Prada necesita rapidez y practicidad para poder realizar sus compras sin complicaciones.
+
+HMW
+- Como podriamos hacer para que Ursula ya no tuviera que llamar para hacer una reserva de cumpleaños.
+- Como podriamos facilicitarle a Ursula el uso de sus dispositivos en sus compras.  
+- Como podriamos organizar y mostrar toda la información en un solo lugar para que Ursula compre por web.
+- Como podriamos tener todos los medidos de pago para facilitar la compra de Ursula.
+- Como podriamos simplificar el proceso de compra para que Ursula desee utilizar nuestra web
+
+WHAT IF?
+- Que tal si mostraramos fotos de realidad 3D e información super detallada de todos los paquetes que ofrecemos.
+- Que tal si ofrecemos una amplia pasarela de pagos y que ademas sea segura.
+- Que tal si  ofrecemos el servicio de booking como lo hace coney park.
+
+FEATURE LIST
+- Galeria de fotos e información super detallada.
+- Implementar pasarela de pagos segura.
+- Simplificar el proceso de compra en 5 pasos.
+- Pagina responsive.
 
 ### 4.3) Ideación, prototipado y user testing
 #### Prototipado de baja fidelidad
 #### Prototipado de alta fidelidad
 #### User testing
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
 
 ## 5. Conclusiones
 ## 6. Enlaces
