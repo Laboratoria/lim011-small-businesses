@@ -79,7 +79,7 @@ Proceso de compra
 
 ### 4.2) Sintesis y Definicion
 #### Affinity map
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/Diagrama%20de%20Afinidad.jpg)
 
 CONCLUSIONES
 - De los clientes entrevistados la mayoria utiliza pc y movil para sus compras por internet.
