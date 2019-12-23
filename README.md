@@ -103,7 +103,7 @@ CONCLUSIONES
 "Compro por internet por practicidad, para no complicarme la vida".
 
 #### User Persona
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/User%20Persona.jpg)
 #### Customer Journey map
 ![image]()
 #### Definicion del producto
