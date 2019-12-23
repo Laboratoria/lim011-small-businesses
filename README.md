@@ -52,17 +52,20 @@ Para realizar este proyecto hemos seleccionado las siguientes actividades:
 
 ### 4.1) Descubrimiento y Planificación
 #### Entrevista con el Cliente
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/cliente.jpg)
 "Actualmente nos regimos en estándares europeos, con mucha seguridad decimos que estamos entre los mejores 
 de calidad de Latinoamérica"- Daniel Kanashiro.
 
 Se entrevistó a Daniel Kanashiro, administrador de Pirqa, quien nos brindo mucha información acerca de la empresa, misión, visión y servicios, aqui unos extractos:
 
-![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/entrevista%20cliente.jpg)![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/cliente.jpg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/entrevista%20cliente.jpg)
+
 
 #### Entrevista con usuarios
 Se entrevistó a 6 usurios escaladores y 4 mamás que podrían usar el servicio de cumpleaños (potenciales clientes).
 
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/usuario1.jpg)
+
 "Veo las puntuaciones y comentarios que tienen en su página de facebook"- Pilar
 "Todo el proceso de compra lo concreté por internet" - Cynthia
 "Prefiero que brinden la información en la página o RR.S.S. porque mucho se demoran en contestar" - Paola
@@ -94,6 +97,7 @@ Este es otra pagina del exterior, The little Gym:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/fotmulario%20little%20gym.png)
 
 ##### Proceso de compra
+Asi muestran otras páginas el proceso de compra:
 Coney Park
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney%20park.png)
 The Wall
