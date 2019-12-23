@@ -25,7 +25,7 @@
 ***
 
 ## 1. Introducción
-Pirqa, es una academia de escalada para niños y adultos que tiene creada 7 años, adicionalmente presta otros servicicos, como la cafeteria, tienda de venta de implementos y equipos, menbresias y servicios de cumpleaños en el local.
+Pirqa, es una academia de escalada para niños y adultos que tiene creada 7 años, adicionalmente presta otros servicios, como la cafeteria, tienda de venta de implementos y equipos, menbresias y servicios de cumpleaños en el local.
 Actualmente toda la venta se realiza presencialmente y estan muy interesados en una propuesta digital.
 
 ## 2. Objetivos del Proyecto
@@ -53,6 +53,7 @@ Para realizar este proyecto hemos seleccionado las siguientes actividades:
 ### 4.1) Descubrimiento y Planificación
 #### Entrevista con el Cliente
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/cliente.jpg)
+
 "Actualmente nos regimos en estándares europeos, con mucha seguridad decimos que estamos entre los mejores 
 de calidad de Latinoamérica"- Daniel Kanashiro.
 
@@ -60,9 +61,10 @@ Se entrevistó a Daniel Kanashiro, administrador de Pirqa, quien nos brindo much
 
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/entrevista%20cliente.jpg)
 
+Finalmente nos indicó que el servicio que más rentabilidad les genera es el de Cumpleaños, y este es el servicio que ellos estan interesados en digitalizar (crear un market place), ya que actualmente todo el proceso se hace por mensajes o llamadas telefónicas y muchas veces se pierden clientes por este proceso.
 
 #### Entrevista con usuarios
-Se entrevistó a 6 usurios escaladores y 4 mamás que podrían usar el servicio de cumpleaños (potenciales clientes).
+Se entrevistó a 6 usuarios escaladores y 4 madres de familia que podrían usar el servicio de cumpleaños (potenciales clientes), haciendo un total de 10 entrevistados.
 
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/usuario1.jpg)
 
