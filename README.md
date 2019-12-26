@@ -135,7 +135,7 @@ The Wall
 #### User Persona
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/User%20persona%20-%20Ursula%20Prada.png)
 #### Customer Journey map
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Costumer%20Journey%20Map.png)
 #### Definicion del producto
 
 ##### PROBLEM STATEMENTS
