@@ -93,6 +93,9 @@ Este es el que muestra una página en el extrangero, The Wall:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/wall.png)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/wall%202.png)
 
+CONCLUSIONES
+Hemos observado como otras páginas muestran la información de sus servicios, algunos ejemplos que más nos gustaron fueron el coney park y the wall, cuentan con toda la información en la web, en cambio pirqa y su competencia directa base camp no muestran la información necesaria para que se concrete una venta online.
+
 ##### Generación de leads
 Este es el que muestra actualmente Pirqa:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/pirqa%20lead.png)
@@ -100,12 +103,18 @@ Este es el que muestra actualmente Pirqa:
 Este es otra pagina del exterior, The little Gym:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/fotmulario%20little%20gym.png)
 
+CONCLUSIONES
+Hemos observado como otras páginas también muestran formularios, muy similares a los que muestra pirqa, estos generan que la comunicación sea por correo o directa, no permiten una venta rápida online. 
+
 ##### Proceso de compra
 Asi muestran otras páginas el proceso de compra:
 Coney Park
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney%20park.png)
 The Wall
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/the%20wall3.png)
+
+CONCLUSIONES
+La pagina del coney y the wall nos da una idea de como simplificar el proceso de compra online, en 5 pasos.
 
 ### 4.2) Síntesis y Definición
 #### Affinity map
@@ -163,7 +172,14 @@ The Wall
 - Simplificar el proceso de compra en 5 pasos.
 - Pagina responsive.
 
+![image]()
+
 ### 4.3) Ideación, prototipado y user testing
+Para la ideación utilizamos la herramienta Crazy8:
+
+![image]()
+![image]()
+
 #### Prototipado de baja fidelidad
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipo%20de%20baja%20fidelidad.jpg)
 Testeo de prototipo de baja fidelidad:
