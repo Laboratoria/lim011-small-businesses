@@ -133,7 +133,7 @@ The Wall
 "Compro por internet por practicidad, para no complicarme la vida".
 
 #### User Persona
-![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/User%20Persona.jpg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/User%20persona%20-%20Ursula%20Prada.png)
 #### Customer Journey map
 ![image]()
 #### Definicion del producto
@@ -165,7 +165,12 @@ The Wall
 
 ### 4.3) Ideación, prototipado y user testing
 #### Prototipado de baja fidelidad
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipo%20de%20baja%20fidelidad.jpg)
+Testeo de prototipo de baja fidelidad:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Testeo%20prototipo%20papel%201.jpg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Testeo%20prototipo%20papel%202.jpg)
 #### Prototipado de alta fidelidad
+![image]()
 #### User testing
 
 ## 5. Conclusiones
