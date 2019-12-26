@@ -5,19 +5,19 @@
 * [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
 * [3. Implementación](#3-implementación)
 * [4. Proceso UX](#4-Proceso-UX)
-  * [4.1 Descubrimiento e Investigación](#5-descubrimiento-e-investigacion)
-    * [4.1.1 Entrevista con el Cliente](#6-consideraciones-técnicas)
-    * [4.1.2 Entrevistas con usuarios](#7-evaluación)
-    * [4.1.3 Benchmark](#8-entrega)
-  * [4.2 Síntesis y Definición](#9-otras-consideraciones)
-    * [4.2.1 Affinity Map](#10-hacker-edition)
-    * [4.2.2 User Persona](#10-hacker-edition)
-    * [4.2.3 Customer Journey Map](#10-hacker-edition)
-    * [4.2.4 Definición del Producto](#10-hacker-edition)
-  * [4.3 Ideación, Prototipado y user testing](#10-hacker-edition)
-    * [4.3.1 Prototipo de baja fidelidad](#10-hacker-edition)
-    * [4.3.2 Prototipo de alta fidelidad](#10-hacker-edition)
-    * [4.3.3 User testing](#10-hacker-edition)
+  * [4.1 Descubrimiento e Investigación](###4.1-Descubrimiento-y-Planificación)
+    * [4.1.1 Entrevista con el Cliente](####Entrevista-con-el-Cliente)
+    * [4.1.2 Entrevistas con usuarios](####Entrevista-con-usuarios)
+    * [4.1.3 Benchmark](####Bechmarck)
+  * [4.2 Síntesis y Definición](###4.2-Síntesis-y-Definición)
+    * [4.2.1 Affinity Map](####Affinity-map)
+    * [4.2.2 User Persona](####User-Persona)
+    * [4.2.3 Customer Journey Map](####Customer-Journey-map)
+    * [4.2.4 Definición del Producto](####Definicion-del-producto)
+  * [4.3 Ideación, Prototipado y user testing](###4.3-Ideación,-prototipado-y-user-testing)
+    * [4.3.1 Prototipo de baja fidelidad](####Prototipado-de-baja-fidelidad)
+    * [4.3.2 Prototipo de alta fidelidad](####Prototipado-de-alta-fidelidad)
+    * [4.3.3 User testing](####User-testing)
 * [5. Conclusiones](#5-conclusiones)
 * [6. Enlaces](#6-enlaces)
   
@@ -104,7 +104,7 @@ Este es otra pagina del exterior, The little Gym:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/fotmulario%20little%20gym.png)
 
 CONCLUSIONES
-Hemos observado como otras páginas también muestran formularios, muy similares a los que muestra pirqa, estos generan que la comunicación sea por correo o directa, no permiten una venta rápida online. 
+Hemos observado como otras páginas también muestran formularios muy similares a los que muestra pirqa, estos generan que la comunicación sea por correo o directa, no permiten una venta rápida online. 
 
 ##### Proceso de compra
 Asi muestran otras páginas el proceso de compra:
@@ -114,7 +114,7 @@ The Wall
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/the%20wall3.png)
 
 CONCLUSIONES
-La pagina del coney y the wall nos da una idea de como simplificar el proceso de compra online, en 5 pasos.
+La página del coney y the wall nos da una idea de como simplificar el proceso de compra online, en pocos pasos.
 
 ### 4.2) Síntesis y Definición
 #### Affinity map
@@ -143,8 +143,10 @@ La pagina del coney y the wall nos da una idea de como simplificar el proceso de
 
 #### User Persona
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/User%20persona%20-%20Ursula%20Prada.png)
+
 #### Customer Journey map
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Costumer%20Journey%20Map.png)
+
 #### Definicion del producto
 
 ##### PROBLEM STATEMENTS
@@ -172,13 +174,13 @@ La pagina del coney y the wall nos da una idea de como simplificar el proceso de
 - Simplificar el proceso de compra en 5 pasos.
 - Pagina responsive.
 
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/MVP.jpg)
 
 ### 4.3) Ideación, prototipado y user testing
 Para la ideación utilizamos la herramienta Crazy8:
 
-![image]()
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Melissa.jpg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Meli2.jpg)
 
 #### Prototipado de baja fidelidad
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipo%20de%20baja%20fidelidad.jpg)
