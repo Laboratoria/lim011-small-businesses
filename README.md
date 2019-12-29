@@ -181,12 +181,19 @@ Para la ideación utilizamos la herramienta Crazy8:
 
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Melissa.jpg)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Meli2.jpg)
+![image]()
 
 #### Prototipado de baja fidelidad
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipo%20de%20baja%20fidelidad.jpg)
 Testeo de prototipo de baja fidelidad:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Testeo%20prototipo%20papel%201.jpg)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Testeo%20prototipo%20papel%202.jpg)
+
+RESULTADOS:
+* Los usuarios demoraron un promedio de 20 seg utilizando el prototipo en papel.
+* Indicaron que era entendible el proceso de compra y que se trataba de un paquete de cumpleaños.
+* Como mejora indicaron que deberia haber más información donde se muestre que la temática es escalada (fotos, videos).
+
 #### Prototipado de alta fidelidad
 ![image]()
 #### User testing
