@@ -145,7 +145,7 @@ La página del coney y the wall nos da una idea de como simplificar el proceso d
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/User%20persona%20-%20Ursula%20Prada.png)
 
 #### Customer Journey map
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/jmp4.png)
 
 #### Definicion del producto
 
