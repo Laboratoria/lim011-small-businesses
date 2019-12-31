@@ -196,7 +196,7 @@ RESULTADOS:
 * Como mejora indicaron que deberia haber más información donde se muestre que la temática es escalada (fotos, videos).
 
 #### Prototipado de alta fidelidad
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipadofigma.jpg)
 #### User testing
 
 ## 5. Conclusiones
