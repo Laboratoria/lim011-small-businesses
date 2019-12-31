@@ -182,12 +182,12 @@ Para la ideación utilizamos la herramienta Crazy8:
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Melissa.jpg)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Meli2.jpg)
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Crazy8%20Galeria%20de%20fotos.jpeg)
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy-ivonne.jpg)
 
 #### Prototipado de baja fidelidad
 ![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipo%20de%20baja%20fidelidad.jpg)
 Testeo de prototipo de baja fidelidad:
-![image]()
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/collage.png)
 
 
 RESULTADOS:
