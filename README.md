@@ -1,212 +1,41 @@
-# Plataforma de ventas en línea
-
+# Pirqa Marketplace 
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/Logo%20Pirqa.png)
 ## Índice
-
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Consideraciones técnicas](#6-consideraciones-técnicas)
-* [7. Evaluación](#7-evaluación)
-* [8. Entrega](#8-entrega)
-* [9. Otras consideraciones](#9-otras-consideraciones)
-* [10. Hacker edition](#10-hacker-edition)
+* [1. Introducción](#1-introducción)
+* [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
+* [3. Implementación](#3-implementación)
+* [4. Proceso UX](#4-Proceso-UX)
+  * [4.1 Descubrimiento e Investigación](###4.1-Descubrimiento-y-Planificación)
+    * [4.1.1 Entrevista con el Cliente](####Entrevista-con-el-Cliente)
+    * [4.1.2 Entrevistas con usuarios](####Entrevista-con-usuarios)
+    * [4.1.3 Benchmark](####Bechmarck)
+  * [4.2 Síntesis y Definición](###4.2-Síntesis-y-Definición)
+    * [4.2.1 Affinity Map](####Affinity-map)
+    * [4.2.2 User Persona](####User-Persona)
+    * [4.2.3 Customer Journey Map](####Customer-Journey-map)
+    * [4.2.4 Definición del Producto](####Definicion-del-producto)
+  * [4.3 Ideación, Prototipado y user testing](###4.3-Ideación,-prototipado-y-user-testing)
+    * [4.3.1 Prototipo de baja fidelidad](####Prototipado-de-baja-fidelidad)
+    * [4.3.2 Prototipo de alta fidelidad](####Prototipado-de-alta-fidelidad)
+    * [4.3.3 User testing](####User-testing)
+* [5. Conclusiones](#5-conclusiones)
+* [6. Enlaces](#6-enlaces)
+  
 
 ***
 
-## 1. Preámbulo
+## 1. Introducción
+Pirqa, es una academia de escalada para niños y adultos que tiene creada 7 años, adicionalmente presta otros servicios, como la cafeteria, tienda de venta de implementos y equipos, menbresias y servicios de cumpleaños en el local.
+Actualmente toda la venta se realiza presencialmente y estan muy interesados en una propuesta digital.
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
+## 2. Objetivos del Proyecto
+- Conocer sobre la marca, servicios que brinda y lo que desean mejorar.
+- Conocer sus valores, fortalezas y debilidades.
+- Conocer sobre el servicio que les da mayor y menor rentabilidad. ¿Cuál desean potenciar?
+- Saber si les gustaría implementar una e-commerce y qué quisieran vender.
 
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
-
-## 2. Resumen del proyecto
-
-### “Nuevo portal de e-commerce”
-
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a:
-
-* [Bluebox](https://instagram.com/bluebox.barsupplies)
-* [Transversal | Wellness Travels](https://instagram.com/transversaltravel)
-* [Pirqa](https://www.pirqa.com/)
-* [Mary's](https://instagram.com/marys_postres)
-* [Amándote Amar](https://web.facebook.com/amandoteamar.store)
-* [FyM Carpintería y Servicios Generales](https://www.facebook.com/fymcarpinteria/)
-* [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
-* [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
-* [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-* [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
-
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
-
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
-
-## 3. Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-### Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## 4. Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-  tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-  relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-  haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-  cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-  curiosidad es clave para entender la problemática. El problema del cliente no
-  siempre es el primero que parece, debes investigar la empresa y la competencia
-  para entender lo que sucede. Para mantener una buena relación con los clientes
-  debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-  resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-  mejores prácticas en la industria del comercio electrónico para poder mostrarle
-  al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-  el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-  haciendo la competencia o industrias similares. De esta manera, puedes traer
-  buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-  le da la confianza de que efectivamente tienes conocimiento de su problemática
-  y que has estudiado todas las posibles soluciones. Para que el benchmark sea
-  efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-  las referencias que resulten obvias, sino otras industrias que puedan funcionar
-  de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-  debes realizar un plan de trabajo, donde se visualicen las herramientas que
-  estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-  que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-  importante que siempre sustentes tu idea, no se trata de trabajar de manera
-  mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-  manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-  garantiza que los problemas se detecten antes, las buenas ideas se introducen
-  más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-  innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-  se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-  técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-  testing es una buena forma de profundizar en las necesidades y preferencias de
-  los usuarios observando sus reacciones mientras usan un producto. Para que el
-  testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-  actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-  al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-  producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-  llévalo a buscar las mejoras y posibles errores, generando una relación de
-  confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## 5. Criterios de aceptación mínimos del proyecto
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. **Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub**.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo será la solución, es decir, qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
-
-## 6. Consideraciones técnicas
-
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el _OK_ para que puedas empezar.
+## 3. Implementación
+Para realizar este proyecto hemos seleccionado las siguientes actividades:
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
@@ -214,85 +43,163 @@ El coach te dará el _OK_ para que puedas empezar.
 |Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+|  | Total | 290 |
 
-## 7. Entrega
+## 4. Proceso UX
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+### 4.1) Descubrimiento y Planificación
+#### Entrevista con el Cliente
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/cliente.jpg)
 
-README.md  explicando el proceso del proyecto:
+"Actualmente nos regimos en estándares europeos, con mucha seguridad decimos que estamos entre los mejores 
+de calidad de Latinoamérica"- Daniel Kanashiro.
 
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-  - User persona
-  - Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto.
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+Se entrevistó a Daniel Kanashiro, administrador de Pirqa, quien nos brindo mucha información acerca de la empresa, misión, visión y servicios, aqui unos extractos:
 
-Un video en Loom de máximo 10 minutos explicando tu documento.
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/entrevista%20cliente.jpg)
 
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+Finalmente nos indicó que el servicio que más rentabilidad les genera es el de Cumpleaños, y este es el servicio que ellos estan interesados en digitalizar (crear un market place), ya que actualmente todo el proceso se hace por mensajes o llamadas telefónicas y muchas veces se pierden clientes por este proceso.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+#### Entrevista con usuarios
+Se entrevistó a 6 usuarios escaladores y 4 madres de familia que podrían usar el servicio de cumpleaños (potenciales clientes), haciendo un total de 10 entrevistados.
 
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/usuario1.jpg)
 
-## 8. Otras consideraciones
+"Veo las puntuaciones y comentarios que tienen en su página de facebook"- Pilar
 
-### 1) Planeamiento y presupuesto
+"Todo el proceso de compra lo concreté por internet" - Cynthia
 
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
+"Prefiero que brinden la información en la página o RR.S.S. porque mucho se demoran en contestar" - Paola
 
-### 2) Definición del producto
 
-Al definir el producto recuerda pensar en:
+#### Bechmarck
+Los criterios utilizados para la selección de referentes fueron los siguientes:
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
+##### Organización de la  información
+Asi muestra actualmente Pirqa su información:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/pirqa.png)
 
-### 3) Prototipo de alta fidelidad
+Este es el que muestra la competencia directa, Base Camp:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/base%20camp2.png)
 
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
+Este es el que muestra otro rubro, pero también centro de diversiones, Coney Park:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney%20park%202.png)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney3.jpg)
 
-## 9. Hacker edition
+Este es el que muestra una página en el extrangero, The Wall:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/wall.png)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/wall%202.png)
 
-* En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0.
-* Escribe un post en Medium contando tu proceso de investigación.
+CONCLUSIONES
+Hemos observado como otras páginas muestran la información de sus servicios, algunos ejemplos que más nos gustaron fueron el coney park y the wall, cuentan con toda la información en la web, en cambio pirqa y su competencia directa base camp no muestran la información necesaria para que se concrete una venta online.
+
+##### Generación de leads
+Este es el que muestra actualmente Pirqa:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/pirqa%20lead.png)
+
+Este es otra pagina del exterior, The little Gym:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/fotmulario%20little%20gym.png)
+
+CONCLUSIONES
+Hemos observado como otras páginas también muestran formularios muy similares a los que muestra pirqa, estos generan que la comunicación sea por correo o directa, no permiten una venta rápida online. 
+
+##### Proceso de compra
+Asi muestran otras páginas el proceso de compra:
+Coney Park
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/coney%20park.png)
+The Wall
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/the%20wall3.png)
+
+CONCLUSIONES
+La página del coney y the wall nos da una idea de como simplificar el proceso de compra online, en pocos pasos.
+
+### 4.2) Síntesis y Definición
+#### Affinity map
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/master/Imagenes/Diagrama%20de%20Afinidad.jpg)
+
+##### CONCLUSIONES
+- De los clientes entrevistados la mayoria utiliza pc y movil para sus compras por internet.
+
+"Desde mi computadora, nunca lo habia pensado pero para meter mis datos bancarios y ver todos los datos es fácil una pantalla grande". "Siempre lo hago desde mi movil".
+
+- Otro grupo recalcó la importancia de tener todo detallado en la web.
+
+"Me gustan las fotos por todos los angulos, que muestran bien el producto. No me gusta que no salga el precio en el producto porque demoran en contestar."
+
+- De las molestias que se encuentra al comprar por internet indicaron que es cuando se muestra algo y la realidad es otra.
+
+"Cuando deseo comprar por ejemplo juguetes, sale en la pagina que hay stock, y cuando pago me indican que no hay en el local de mi dirección."
+
+- Con respecto a la forma de pago la mayoria indicó que prefieren realizar pagos en medios seguros y no tienen inconvenientes en realizar adelantos.
+
+"Puedo hacerlo contra entrega, puedo hacerlo con mis tarjetas, o con efectivo".
+
+- Con respecto al proceso de compra los entrevistados indicaron que mientras más rapido y fácil es el proceso mucho mejor.
+
+"Compro por internet por practicidad, para no complicarme la vida".
+
+#### User Persona
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/User%20persona%20-%20Ursula%20Prada.png)
+
+#### Customer Journey map
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/jmp4.png)
+
+#### Definicion del producto
+
+##### PROBLEM STATEMENTS
+- Ursula Prada necesita navegar por internet desde sus dispositivos para realizar compras.
+- Ursula Prada necesita informacion detallada, fotos, etc. para poder realizar compras por internet.
+- Ursula Prada necesita seguridad para no llevarse sorpresas cuando le lleguen sus compras.
+- Ursula Prada necesita encontrar diversos medios de pagos para poder realizar sus compras.
+- Ursula Prada necesita rapidez y practicidad para poder realizar sus compras sin complicaciones.
+
+##### HMW
+- Como podriamos hacer para que Ursula ya no tuviera que llamar para hacer una reserva de cumpleaños.
+- Como podriamos facilicitarle a Ursula el uso de sus dispositivos en sus compras.  
+- Como podriamos organizar y mostrar toda la información en un solo lugar para que Ursula compre por web.
+- Como podriamos tener todos los medidos de pago para facilitar la compra de Ursula.
+- Como podriamos simplificar el proceso de compra para que Ursula desee utilizar nuestra web
+
+##### WHAT IF?
+- Que tal si mostraramos fotos de realidad 3D e información super detallada de todos los paquetes que ofrecemos.
+- Que tal si ofrecemos una amplia pasarela de pagos y que ademas sea segura.
+- Que tal si  ofrecemos el servicio de booking como lo hace coney park.
+
+##### FEATURE LIST
+- Galeria de fotos e información super detallada.
+- Implementar pasarela de pagos segura.
+- Simplificar el proceso de compra en 5 pasos.
+- Pagina responsive.
+
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/MVP.jpg)
+
+### 4.3) Ideación, prototipado y user testing
+Para la ideación utilizamos la herramienta Crazy8:
+
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Melissa.jpg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy8Meli2.jpg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Crazy8%20Galeria%20de%20fotos.jpeg)
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/crazy-ivonne.jpg)
+
+#### Prototipado de baja fidelidad
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipo%20de%20baja%20fidelidad.jpg)
+Testeo de prototipo de baja fidelidad:
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/collage.png)
+
+
+RESULTADOS:
+* Los usuarios demoraron un promedio de 20 seg utilizando el prototipo en papel.
+* Indicaron que era entendible el proceso de compra y que se trataba de un paquete de cumpleaños.
+* Como mejora indicaron que deberia haber más información donde se muestre que la temática es escalada (fotos, videos).
+
+#### Prototipado de alta fidelidad
+![image](https://github.com/MelissaCcoyllo/lim011-small-businesses/blob/pirqateam/Imagenes/Prototipadofigma.jpg)
+#### User testing
+
+## 5. Conclusiones
+## 6. Enlaces
+* [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1Ar3P8PT4rc6GE4cbh7sH1OtE2qIi6WX2)
+* [Prototipado en figma](https://www.figma.com/proto/DIUJdjtflJXHw2Ak3iqZtK/Vista-movil-pirqa-market-place?node-id=32%3A6&scaling=scale-down)
